@@ -1,7 +1,7 @@
 # Technical micro service
 
 ### configuration port service : 8080
-### Eureka port service : 8181
+### Eureka port service : 8761
 ### Proxy port service : 8282
 
 
